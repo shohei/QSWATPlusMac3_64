@@ -1,4 +1,4 @@
-#QSWAT+ Intel macOS plugin 
+# QSWAT+ Intel macOS plugin 
 ## Installation
 
 Put the `QSWATPlusMac3_64` folder in the following folder:
